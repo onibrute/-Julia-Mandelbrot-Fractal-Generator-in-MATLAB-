@@ -54,6 +54,6 @@ Some ideas and formulations were adapted using AI tools, MATLAB documentation, a
 ## 👤 Author
 
 Robert-Constantin Preda  
-B.Sc. student – Automation and Applied Informatics  
+Automation and Applied Informatics  
 University of Craiova
 
